@@ -14,7 +14,7 @@ public class GameTime : MonoBehaviour
     public string time;
 
     void Start () 
-	{
+    {
         InvokeRepeating("Minuits", 1, 1);
     }
 
