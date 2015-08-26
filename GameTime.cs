@@ -24,19 +24,16 @@ public class GameTime : MonoBehaviour
         {
             min++;
         }
+        else if (hour + 1 <= 23)
+        {
+            hour++;
+        }
         else
         {
-            if (hour + 1 <= 23)
-            {
-                hour++;
-            }
-            else
-            {
-                hour = 0;
-                day++;
-            }
-            min = 0;
+            hour = 0;
+            day++;
         }
+        min = 0;
     }
 
     void OnGUI ()
