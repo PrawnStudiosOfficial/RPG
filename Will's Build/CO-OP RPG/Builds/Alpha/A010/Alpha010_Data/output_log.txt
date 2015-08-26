@@ -1,0 +1,357 @@
+Mono path[0] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A010/Alpha010_Data/Managed'
+Mono path[1] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A010/Alpha010_Data/Mono'
+Mono config path = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A010/Alpha010_Data/Mono/etc'
+PlayerConnection initialized from D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A010/Alpha010_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55389
+Multi-casting "[IP] 192.168.0.2 [Port] 55389 [Flags] 3 [Guid] 3835908579 [EditorId] 3726225882 [Version] 1048832 [Id] WindowsPlayer(WILLS-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.2:55389]...
+PlayerConnection accepted from [192.168.0.2] handle:0x24c
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56579
+PlayerConnection already initialized - listening to [192.168.0.2:55389]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+desktop: 2560x1440 59Hz; virtual: 6400x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A010\Alpha010_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4600 -> priority: 1 
+  Thread -> id: 41d8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.939002 ms
+System memory in use before: 13.5 MB.
+System memory in use after: 13.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.277710 ms (FindLiveObjects: 0.025962 ms CreateObjectMapping: 0.012543 ms MarkObjects: 0.220534 ms  DeleteObjects: 0.012251 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.621347 ms
+System memory in use before: 13.4 MB.
+System memory in use after: 13.4 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.336636 ms (FindLiveObjects: 0.025962 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.291420 ms  DeleteObjects: 0.009043 ms)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.262239 ms
+System memory in use before: 13.5 MB.
+System memory in use after: 13.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 445.
+Total: 0.313882 ms (FindLiveObjects: 0.020711 ms CreateObjectMapping: 0.008751 ms MarkObjects: 0.272459 ms  DeleteObjects: 0.011376 ms)
+
+Is Master Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:33)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 33)
+
+Player Connected: Will
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:OnPhotonPlayerConnected(PhotonPlayer) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:147)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2049)
+NetworkingPeer:OnEvent(EventData) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1878)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 147)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00460] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:93 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 93)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.308621 ms
+System memory in use before: 33.7 MB.
+System memory in use after: 33.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.421524 ms (FindLiveObjects: 0.022461 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.276543 ms  DeleteObjects: 0.112600 ms)
+
+The observed monobehaviour (Player(Clone)) of this PhotonView does not implement OnPhotonSerializeView()!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+PhotonView:ExecuteComponentOnSerialize(Component, PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:527)
+PhotonView:SerializeComponent(Component, PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:446)
+PhotonView:SerializeView(PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:339)
+NetworkingPeer:OnSerializeWrite(PhotonView) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:3384)
+NetworkingPeer:RunViewUpdate() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:3305)
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:90)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs Line: 527)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1fbc -> priority: 1 
+  Thread -> id: fdc -> priority: 1 
+The observed monobehaviour (Player(Clone)) of this PhotonView does not implement OnPhotonSerializeView()!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogError(Object)
+PhotonView:ExecuteComponentOnSerialize(Component, PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:527)
+PhotonView:DeserializeComponent(Component, PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:367)
+PhotonView:DeserializeView(PhotonStream, PhotonMessageInfo) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs:352)
+NetworkingPeer:OnSerializeRead(Hashtable, PhotonPlayer, Int32, Int16) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:3498)
+NetworkingPeer:OnEvent(EventData) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1924)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs Line: 527)
+
+Waiting for finish

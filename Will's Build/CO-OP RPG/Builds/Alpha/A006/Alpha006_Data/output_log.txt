@@ -1,0 +1,126 @@
+Mono path[0] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A006/Alpha006_Data/Managed'
+Mono path[1] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A006/Alpha006_Data/Mono'
+Mono config path = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A006/Alpha006_Data/Mono/etc'
+PlayerConnection initialized from D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A006/Alpha006_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55004
+Multi-casting "[IP] 192.168.0.2 [Port] 55004 [Flags] 3 [Guid] 1867764235 [EditorId] 2120856338 [Version] 1048832 [Id] WindowsPlayer(WILLS-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.2:55004]...
+PlayerConnection accepted from [192.168.0.2] handle:0x254
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56235
+PlayerConnection already initialized - listening to [192.168.0.2:55004]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+desktop: 2560x1440 59Hz; virtual: 6400x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A006\Alpha006_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 46fc -> priority: 1 
+  Thread -> id: 4704 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.044602 ms
+System memory in use before: 13.3 MB.
+System memory in use after: 13.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.275668 ms (FindLiveObjects: 0.025962 ms CreateObjectMapping: 0.013127 ms MarkObjects: 0.219367 ms  DeleteObjects: 0.010793 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.594801 ms
+System memory in use before: 13.3 MB.
+System memory in use after: 13.3 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.229285 ms (FindLiveObjects: 0.018086 ms CreateObjectMapping: 0.007876 ms MarkObjects: 0.194572 ms  DeleteObjects: 0.007584 ms)
+
+UserId sent: ffff
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: ffff
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373391 ms
+System memory in use before: 13.5 MB.
+System memory in use after: 13.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.348888 ms (FindLiveObjects: 0.023045 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.307464 ms  DeleteObjects: 0.008167 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at GameObjectExtensions.GetActive (UnityEngine.GameObject target) [0x00000] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs:199 
+  at Inventory.Start () [0x00010] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:23 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs Line: 199)
+
+UnloadTime: 1.282367 ms
+System memory in use before: 34.4 MB.
+System memory in use after: 34.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 0.443402 ms (FindLiveObjects: 0.023336 ms CreateObjectMapping: 0.008459 ms MarkObjects: 0.280919 ms  DeleteObjects: 0.129812 ms)
+
+Rifleman Starter Gear Added.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inventory:StarterGearRifleman() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:84)
+Inventory:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:28)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Inventory.cs Line: 84)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4374 -> priority: 1 
+  Thread -> id: 2370 -> priority: 1 
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Waiting for finish

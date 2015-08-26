@@ -1,0 +1,39 @@
+Mono path[0] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A009/Alpha009_Data/Managed'
+Mono path[1] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A009/Alpha009_Data/Mono'
+Mono config path = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A009/Alpha009_Data/Mono/etc'
+PlayerConnection initialized from D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A009/Alpha009_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55278
+Multi-casting "[IP] 192.168.0.2 [Port] 55278 [Flags] 3 [Guid] 2021945859 [EditorId] 983281282 [Version] 1048832 [Id] WindowsPlayer(WILLS-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.2:55278]...
+PlayerConnection accepted from [192.168.0.2] handle:0x250
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56859
+PlayerConnection already initialized - listening to [192.168.0.2:55278]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A009\Alpha009_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.160 seconds
+desktop: 2560x1440 59Hz; virtual: 6400x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Waiting for finish

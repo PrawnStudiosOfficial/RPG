@@ -1,0 +1,605 @@
+Mono path[0] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A007/Alpha007_Data/Managed'
+Mono path[1] = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A007/Alpha007_Data/Mono'
+Mono config path = 'D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A007/Alpha007_Data/Mono/etc'
+PlayerConnection initialized from D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Builds/Alpha/A007/Alpha007_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55070
+Multi-casting "[IP] 192.168.0.2 [Port] 55070 [Flags] 3 [Guid] 3503677311 [EditorId] 3612656234 [Version] 1048832 [Id] WindowsPlayer(WILLS-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.2:55070]...
+PlayerConnection accepted from [192.168.0.2] handle:0x244
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56311
+PlayerConnection already initialized - listening to [192.168.0.2:55070]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Ionic.Zip.dll (this message is harmless)
+Loading D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\Ionic.Zip.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+desktop: 2560x1440 59Hz; virtual: 6400x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Builds\Alpha\A007\Alpha007_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 318c -> priority: 1 
+  Thread -> id: 2860 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.244716 ms
+System memory in use before: 13.3 MB.
+System memory in use after: 13.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 0.336344 ms (FindLiveObjects: 0.028296 ms CreateObjectMapping: 0.014002 ms MarkObjects: 0.274793 ms  DeleteObjects: 0.012251 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.599760 ms
+System memory in use before: 13.3 MB.
+System memory in use after: 13.3 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.231619 ms (FindLiveObjects: 0.028296 ms CreateObjectMapping: 0.008167 ms MarkObjects: 0.186695 ms  DeleteObjects: 0.007584 ms)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342762 ms
+System memory in use before: 13.5 MB.
+System memory in use after: 13.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.380101 ms (FindLiveObjects: 0.022753 ms CreateObjectMapping: 0.010209 ms MarkObjects: 0.336927 ms  DeleteObjects: 0.009043 ms)
+
+Is not Master Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:33)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 33)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x000cf] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:48 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 48)
+
+UnloadTime: 1.311538 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.331385 ms (FindLiveObjects: 0.025670 ms CreateObjectMapping: 0.008459 ms MarkObjects: 0.286461 ms  DeleteObjects: 0.009918 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628056 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 343.
+Total: 0.292004 ms (FindLiveObjects: 0.021295 ms CreateObjectMapping: 0.008459 ms MarkObjects: 0.251164 ms  DeleteObjects: 0.010209 ms)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.466739 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.7 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.385643 ms (FindLiveObjects: 0.028296 ms CreateObjectMapping: 0.009334 ms MarkObjects: 0.333718 ms  DeleteObjects: 0.012835 ms)
+
+Is not Master Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:33)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 33)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x000cf] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:48 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 48)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.818836 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.362598 ms (FindLiveObjects: 0.027420 ms CreateObjectMapping: 0.010209 ms MarkObjects: 0.314174 ms  DeleteObjects: 0.009334 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.495911 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.373391 ms (FindLiveObjects: 0.036464 ms CreateObjectMapping: 0.011668 ms MarkObjects: 0.313590 ms  DeleteObjects: 0.010793 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531499 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.374558 ms (FindLiveObjects: 0.021586 ms CreateObjectMapping: 0.008167 ms MarkObjects: 0.333718 ms  DeleteObjects: 0.010209 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628056 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 343.
+Total: 0.300755 ms (FindLiveObjects: 0.020711 ms CreateObjectMapping: 0.008167 ms MarkObjects: 0.262832 ms  DeleteObjects: 0.008167 ms)
+
+UserId sent: Will Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: Will Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385935 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.7 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.347429 ms (FindLiveObjects: 0.022461 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.306298 ms  DeleteObjects: 0.009043 ms)
+
+Is not Master Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:33)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 33)
+
+Player Connected: name myself
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:OnPhotonPlayerConnected(PhotonPlayer) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:89)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2049)
+NetworkingPeer:OnEvent(EventData) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1878)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 89)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MultiplayerLobby.Update () [0x00186] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:54 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 54)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.858509 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.351805 ms (FindLiveObjects: 0.025378 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.308048 ms  DeleteObjects: 0.008459 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.787915 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 343.
+Total: 0.355305 ms (FindLiveObjects: 0.034422 ms CreateObjectMapping: 0.011668 ms MarkObjects: 0.296088 ms  DeleteObjects: 0.011085 ms)
+
+UserId sent: Will Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+UserId sent: Will Server
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+ExitGames.Client.Photon.LoadbalancingPeer:OpAuthenticate(String, String, AuthenticationValues, String) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs:405)
+NetworkingPeer:OnStatusChanged(StatusCode) (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1576)
+ExitGames.Client.Photon.<>c__DisplayClass6:<EnqueueStatusCallback>b__4()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:83)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/LoadbalancingPeer.cs Line: 405)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.355305 ms
+System memory in use before: 13.6 MB.
+System memory in use after: 13.7 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.437568 ms (FindLiveObjects: 0.023336 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.395270 ms  DeleteObjects: 0.008459 ms)
+
+Is not Master Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MultiplayerLobby:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Menus\Main Menu New\Multiplayer\MultiplayerLobby.cs:33)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Menus/Main Menu New/Multiplayer/MultiplayerLobby.cs Line: 33)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.104423 ms
+System memory in use before: 33.6 MB.
+System memory in use after: 33.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.480450 ms (FindLiveObjects: 0.023045 ms CreateObjectMapping: 0.009043 ms MarkObjects: 0.328759 ms  DeleteObjects: 0.118726 ms)
+
+Rifleman Starter Gear Added.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Inventory:StarterGearRifleman() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:84)
+Inventory:Start() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:28)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Inventory.cs Line: 84)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GameObjectExtensions.GetActive (UnityEngine.GameObject target) [0x00000] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs:199 
+  at Inventory.Start () [0x00010] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:23 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs Line: 199)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3fc0 -> priority: 1 
+  Thread -> id: 9cc -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at GameObjectExtensions.GetActive (UnityEngine.GameObject target) [0x00000] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs:199 
+  at Inventory.Start () [0x00010] in D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Inventory.cs:23 
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Photon Unity Networking/Plugins/PhotonNetwork/Extensions.cs Line: 199)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Looking at Untagged or not Referanced Object! (Interact Script)
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+Interact:TargetedInteraction() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:32)
+Interact:Update() (at D:\Development Projects\Games\3D\RPG CO-OP\CO-OP RPG\Assets\Scripts\Player\Interact.cs:16)
+ 
+(Filename: D:/Development Projects/Games/3D/RPG CO-OP/CO-OP RPG/Assets/Scripts/Player/Interact.cs Line: 32)
+
+Waiting for finish
